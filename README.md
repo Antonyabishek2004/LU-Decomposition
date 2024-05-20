@@ -21,7 +21,7 @@ import numpy as np import scipy.linalg as la A=np.array(eval(input())) B=np.arra
 
 
 ## Output:
-![EX NO 5 AI  1](https://github.com/Antonyabishek2004/LU-Decomposition/assets/138849620/3ed83d80-4ff1-46e1-a640-420f5f447884)
+![image](https://github.com/Antonyabishek2004/LU-Decomposition/assets/138849620/686906f3-a800-4097-8491-c6e6117defb3)
 ![EX NO 5 AI 2](https://github.com/Antonyabishek2004/LU-Decomposition/assets/138849620/67e56e6b-f3a5-475b-b116-0c01f6743811)
 ![EX NO 5 AI 3](https://github.com/Antonyabishek2004/LU-Decomposition/assets/138849620/59d1bc8a-184e-4f18-a1a9-e072605a3af7)
 ![EX NO 5 AI 4](https://github.com/Antonyabishek2004/LU-Decomposition/assets/138849620/66916bf9-969e-40e4-b86b-787de77be75c)
